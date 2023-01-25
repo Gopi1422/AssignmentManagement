@@ -14,18 +14,6 @@ There are 4 resources:
 - A teacher can list all assignments submitted to him
 - A teacher can grade an assignment submitted to him
 
-## Challenge
-
-Your tasks
-- Add missing APIs mentioned here and get the automated tests to pass
-- Add a test for grading API
-- All tests should pass
-- Get the test coverage to 94% or above
-
-Once you are done with your task, please use [this form](https://forms.gle/PinUUYFTKQo3BCTe9) to complete your submission.
-
-You will hear back within 48 hours from us via email. 
-
 
 ## Available APIs
 
@@ -151,10 +139,6 @@ response:
     }
 }
 ```
-
-## Missing APIs
-
-You'll need to implement these APIs
 
 ### GET /teacher/assignments
 
