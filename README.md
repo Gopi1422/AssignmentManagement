@@ -41,7 +41,7 @@ pytest -vvv -s tests/
 ```
 
 
-## Test Results:
+## Test Results
 
 ![Output-1](https://github.com/Gopi1422/AssignmentManagement/blob/e987567a38bce1739f04ad6684abce6d2b9ec467/screenshots/1.png)
 ![Output-2](https://github.com/Gopi1422/AssignmentManagement/blob/e987567a38bce1739f04ad6684abce6d2b9ec467/screenshots/2.png)
